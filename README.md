@@ -42,7 +42,7 @@
 # :boom: About The Project
 
 <!-- Project image -->
-<img src=".github/Home.png" alt="Proffy">
+<!-- <img src=".github/Home.png" alt="Proffy"> -->
 
 
 ## Description

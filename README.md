@@ -91,7 +91,7 @@ Run the commands below to install and run the app.
     git clone https://github.com/jvitormf/nlw3-happy
   ```
 
-  <!-- ```sh
+  ```sh
     #Go to server folder
     cd nlw3-happy/server
 
@@ -100,7 +100,7 @@ Run the commands below to install and run the app.
 
     #Start the server
     yarn start
-   ``` -->
+   ```
 
   ```sh
     #Go to web folder

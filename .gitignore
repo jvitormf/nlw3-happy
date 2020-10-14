@@ -9,15 +9,14 @@ node_modules
 backend/coverage
 frontend/coverage
 mobile/coverage
-/backend/tmp/*
-!/backend/tmp/.gitkeep
+/backend/uploads/*
+!/backend/uploads/.gitkeep
 
 # production
 /build
 /backend/dist
 
 # misc
-ormconfig.json
 .DS_Store
 .env
 .env.local

@@ -2,12 +2,14 @@ import React, { useEffect, useState } from "react";
 import { FaWhatsapp } from "react-icons/fa";
 import { FiClock, FiInfo } from "react-icons/fi";
 import { Map, Marker, TileLayer } from "react-leaflet";
+import { useParams } from "react-router-dom";
+import api from "../services/api";
 
-import '../styles/pages/orphanage.css';
 import Sidebar from "../components/Sidebar";
 import mapIcon from "../utils/mapIcon";
-import api from "../components/api";
-import { useParams } from "react-router-dom";
+
+import '../styles/pages/orphanage.css';
+
 
 interface Orphanage {
   latitude: number;

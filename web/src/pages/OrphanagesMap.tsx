@@ -2,12 +2,12 @@ import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { FiPlus, FiArrowRight } from 'react-icons/fi';
 import { Map, TileLayer, Marker, Popup } from 'react-leaflet';
+import api from "../services/api";
 
 import mapMarkerImg from '../assets/images/map-marker.svg';
 import mapIcon from '../utils/mapIcon';
 
 import '../styles/pages/orphanages-map.css';
-import api from '../components/api';
 
 interface Orphanage {
   id: string;

@@ -25,6 +25,7 @@ export default function CreateOrphanage() {
 
   function handleMapClick(event: LeafletMouseEvent) {
     const { lat, lng } = event.latlng;
+    
     setPosition({
       latitude: lat,
       longitude: lng,
@@ -83,7 +84,7 @@ export default function CreateOrphanage() {
             <legend>Dados</legend>
 
             <Map 
-              center={[-27.2092052,-49.6401092]} 
+              center={[-23.549063,-46.6316466]} 
               style={{ width: '100%', height: 280 }}
               zoom={15}
               onclick={handleMapClick}

@@ -13,9 +13,9 @@
 
 <!-- PROJECT LOGO -->
 <p align="center">
-  <!-- <a href="https://github.com/jvitormf/nlw3-happy">
-     <img src=".github/nlw.svg" alt="Logo">
-  </a> -->
+  <a href="https://github.com/jvitormf/nlw3-happy">
+     <img src=".github/Logo.svg" alt="Logo">
+  </a>
 
   [Next Level Week](http://nextlevelweek.com/) it's a seven-day event created by [Rocketseat](https://rocketseat.com.br/), the objective is to take you to the next level of your career. The event has lots of practice coding, challenges, and networking. An online and completely free event that will help you take the next step. :rocket:
 </p>
@@ -58,7 +58,7 @@ An app for people to visit orphanages and bring happiness to children!
   * [Node.js](https://nodejs.org/)
   * [React](https://reactjs.org/)
   * [React Native](https://reactnative.dev/)
-  <!-- * [Expo](https://expo.io/) -->
+  * [Expo](https://expo.io/)
 
   [:arrow_up: Back to top](#table-of-Contents)
 
@@ -80,7 +80,7 @@ To get a local copy up and running follow these simple steps.
 
 * Node.js - [Install guide](https://nodejs.org/en/download/package-manager/)
 * Yarn - [Install guide](https://classic.yarnpkg.com/en/docs/install/#windows-stable)
-<!-- * Expo - [Install guide](https://expo.io/learn) -->
+* Expo - [Install guide](https://expo.io/learn)
 
 [:arrow_up: Back to top](#table-of-Contents)
 
@@ -113,7 +113,7 @@ Run the commands below to install and run the app.
     yarn start
    ```
 
-  <!-- ```sh
+  ```sh
     #Go to web mobile
     cd nlw3-happy/mobile
 
@@ -122,7 +122,7 @@ Run the commands below to install and run the app.
 
     #Install dependencies
     yarn start
-   ``` -->
+   ```
 
 [:arrow_up: Back to top](#table-of-Contents)
 

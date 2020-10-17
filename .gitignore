@@ -17,6 +17,7 @@ mobile/coverage
 /backend/dist
 
 # misc
+database.sqlite
 .DS_Store
 .env
 .env.local

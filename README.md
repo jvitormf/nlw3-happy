@@ -94,9 +94,12 @@ Run the commands below to install and run the app.
   ```sh
     #Go to server folder
     cd nlw3-happy/server
-
+    
     #Install dependencies
     yarn
+
+    #Install dependencies
+    yarn typeorm migration:run
 
     #Start the server
     yarn start
